@@ -1,4 +1,4 @@
-# google-homepage
+# google_homepage
 
 My first repository on Github; a clone of the google homepage. 
 
